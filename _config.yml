@@ -1,6 +1,6 @@
 # Site settings
-title: pxzhang's Blog
-SEOTitle: pxzhang的博客 | pxzhang's Blog
+title: Pi's Blog
+SEOTitle: Pi的博客 | Pi's Blog
 header-img: img/home-bg.jpg
 email: pxzhang409@gmail.com
 description: ""
@@ -69,7 +69,7 @@ ba_track_id: f029696ca9feba2dc0dd8fb6ff219cd2
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "码代码，看世界，思人生~"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-pi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
